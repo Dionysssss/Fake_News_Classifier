@@ -1,31 +1,4 @@
-###################################
-# IDE specific
-###################################
-# XCode
-*.pbxuser
-*.perspective
-*.perspectivev3
-*.mode1v3
-*.mode2v3
 
-# XCode 4
-xcuserdata
-*.xcworkspace
-
-# Code::Blocks
-*.depend
-*.layout
-
-# Visual Studio
-*.sdf
-*.opensdf
-*.suo
-ipch/
-
-# Eclipse
-.metadata
-local.properties
-.externalToolBuilders
 
 
 
@@ -33,16 +6,10 @@ local.properties
 # OS Specific
 ###################################
 
-# Linux
-*~
-# KDE
-.directory
 
 # OSX
-**/.DS_Store
 .DS_Store
-*.swp
-*~.nib
+
 # Thumbnails
 ._*
 
